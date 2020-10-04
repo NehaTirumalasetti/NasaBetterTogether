@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<head>
+    <title>Fill Form</title>
+    <meta charset="UTF-8">
+    <link
+    rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous"
+  />
+</head>
+<style>
+        body{
+        font-family: 'Open Sans', sans-serif;
+        background:#000;
+        margin: 0 auto 0 auto;  
+        width:100%; 
+        /* text-align:center; */
+        margin: 20px 0px 20px 0px;   
+        }
+
+        p{
+        font-size:12px;
+        text-decoration: none;
+        color:#ffffff;
+        }
+
+        h1{
+        font-size:1.5em;
+        color:#525252;
+        }
+
+        .box{
+        background:white;
+        width:800px;
+        height:650px;
+        border-radius:6px;
+        margin: 0 auto 0 auto;
+        padding:0px 0px 70px 0px;
+        border: #AAAAAA 4px solid; 
+        }
+.form-group{
+    padding: 0rem 3rem;
+}
+.input-group{
+    padding: 0rem 3rem;;
+}
+       
+
+       
+</style>
+<!-- <form>
+    
+    <div class="form-group">
+      <label for="exampleInputPassword1">Password</label>
+      <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+    </div>
+    <div class="form-check">
+      <input type="checkbox" class="form-check-input" id="exampleCheck1">
+      <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form> -->
+<body>
+    <form method="POST" enctype="multipart/form-data" action="register">
+    {% csrf_token %}
+    <div class="box">
+        <h1 class="ml-5 mt-5">Please fill the below information</h1>
+       
+            
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" name="name" id="name" class="form-control" aria-describedby="emailHelp" placeholder="Enter name" required>
+              
+            </div>
+      
+            
+            <div class="form-group">
+                <label for="email">Email address</label>
+                <input type="email" id="email" name="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter email" required>
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            </div>
+       
+        
+       
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+              <label class="input-group-text" for="region">Select region of event</label>
+            </div>
+            <select class="custom-select" name="region" id="region" required>
+              <option selected>Choose...</option>
+              <option value="Canada">Canada</option>
+                <option value="Mexico">Mexico</option>
+                <option value="USA">USA</option>
+                <option value="USA">India</option>
+                <option value="USA">Brazil</option>
+                <option value="USA">Australia</option>
+            </select>
+          </div>
+         
+        
+       
+        <div class="form-group">
+            <label for="eventType">Type/Title of the event</label>
+            <textarea name="eventType" id="eventType" class="form-control" aria-describedby="emailHelp" required ></textarea>
+           
+        </div>
+        <div class="form-group">
+            <label for="description">Description of the event</label>
+            <textarea name="description"  id="description" class="form-control" aria-describedby="emailHelp" required></textarea>
+            <small class="form-text text-muted">We encourage as much description as possible so that we can verify the aunthenticity</small>
+        </div>
+       
+        <button class="btn btn-success ml-5 mb-5" id="btn" type="submit" tabindex="0" onclick="Bye();">Submit</button>
+        
+    
+    </div>
+    <script>
+      var response;
+        const Bye = () => {
+            response = window.alert("Thank you for your report. We will inspect the issue and take relevant action!");
+            console.log(response);
+        }
+    </script>
+    </form>
+</body>
+</html>

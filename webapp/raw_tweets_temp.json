@@ -1,0 +1,568 @@
+{
+    "statuses": [
+        {
+            "created_at": "Sat Oct 03 14:57:26 +0000 2020",
+            "id": 1312406409531715590,
+            "id_str": "1312406409531715590",
+            "text": "@iBeing_Sultan Tu logo se hum kuch expect hi nahi karte tum logo ki aukat hi nahi hai",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "iBeing_Sultan",
+                        "name": "Ꮪυℓтⓐи!",
+                        "id": 1247370289945575425,
+                        "id_str": "1247370289945575425",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1312392210336292864,
+            "in_reply_to_status_id_str": "1312392210336292864",
+            "in_reply_to_user_id": 1247370289945575425,
+            "in_reply_to_user_id_str": "1247370289945575425",
+            "in_reply_to_screen_name": "iBeing_Sultan",
+            "user": {
+                "id": 926458736499048449,
+                "id_str": "926458736499048449",
+                "name": "MaHaViR",
+                "screen_name": "MAHAVIR64105790",
+                "location": "Pune, India",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 256,
+                "friends_count": 996,
+                "listed_count": 0,
+                "created_at": "Fri Nov 03 14:39:10 +0000 2017",
+                "favourites_count": 21922,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 12591,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1304733605839609858/yOWrjMjS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304733605839609858/yOWrjMjS_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/926458736499048449/1601532576",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Wed Sep 30 12:51:07 +0000 2020",
+            "id": 1311287459771113472,
+            "id_str": "1311287459771113472",
+            "text": "รอ Nest Audio \n\nhttps://t.co/SvZlfV4Ex6",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/SvZlfV4Ex6",
+                        "expanded_url": "https://me.mashable.com/tech/11692/what-to-expect-at-googles-launch-night-in-2020-hardware-event",
+                        "display_url": "me.mashable.com/tech/11692/wha…",
+                        "indices": [
+                            16,
+                            39
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 12814172,
+                "id_str": "12814172",
+                "name": "khomkrit at Home",
+                "screen_name": "khomkrit",
+                "location": "Province of Moscow, Russia",
+                "description": "👨‍💻 Midnight Developer ♥️ Apple, Tech, นักเขียนโค้ด, Flutter, Vue.js, Node.js, MongoDB, ทำนา, ปลูกป่า ปลูกต้นไม้ เลี้ยงปลา เลี้ยงไก่, เลี้ยงลูก",
+                "url": "https://t.co/NiqBBSiOrv",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/NiqBBSiOrv",
+                                "expanded_url": "http://khomkrit.com",
+                                "display_url": "khomkrit.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 649,
+                "friends_count": 389,
+                "listed_count": 20,
+                "created_at": "Tue Jan 29 03:45:04 +0000 2008",
+                "favourites_count": 5319,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 108683,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1244843340819886080/Mwflafnc_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244843340819886080/Mwflafnc_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/12814172/1560409975",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Wed Sep 30 08:25:26 +0000 2020",
+            "id": 1311220598882873344,
+            "id_str": "1311220598882873344",
+            "text": "OHIO FOR BIDEN !!!!!!https://t.co/zCxClgdf96",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/zCxClgdf96",
+                        "expanded_url": "https://www.msnbc.com/stephanie-ruhle/watch/undecided-ohio-voters-on-what-they-expect-from-first-presidential-debate-92779077660",
+                        "display_url": "msnbc.com/stephanie-ruhl…",
+                        "indices": [
+                            21,
+                            44
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1309027275426459650,
+                "id_str": "1309027275426459650",
+                "name": "Evie",
+                "screen_name": "Evie18067792",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3,
+                "friends_count": 110,
+                "listed_count": 0,
+                "created_at": "Thu Sep 24 07:10:14 +0000 2020",
+                "favourites_count": 61,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 274,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Wed Sep 30 06:19:57 +0000 2020",
+            "id": 1311189017010909184,
+            "id_str": "1311189017010909184",
+            "text": "JDKXIRJDHDB I DIDN'T EXPECT THIS FJFJBFHCDBXHFBDHDH https://t.co/NDMxNdkkXF",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1311189014498557952,
+                        "id_str": "1311189014498557952",
+                        "indices": [
+                            52,
+                            75
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EjJHdjKUwAAOOzd.png",
+                        "media_url_https": "https://pbs.twimg.com/media/EjJHdjKUwAAOOzd.png",
+                        "url": "https://t.co/NDMxNdkkXF",
+                        "display_url": "pic.twitter.com/NDMxNdkkXF",
+                        "expanded_url": "https://twitter.com/incarnatiooon/status/1311189017010909184/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 718,
+                                "h": 544,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 718,
+                                "h": 544,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 515,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1311189014498557952,
+                        "id_str": "1311189014498557952",
+                        "indices": [
+                            52,
+                            75
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EjJHdjKUwAAOOzd.png",
+                        "media_url_https": "https://pbs.twimg.com/media/EjJHdjKUwAAOOzd.png",
+                        "url": "https://t.co/NDMxNdkkXF",
+                        "display_url": "pic.twitter.com/NDMxNdkkXF",
+                        "expanded_url": "https://twitter.com/incarnatiooon/status/1311189017010909184/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 718,
+                                "h": 544,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 718,
+                                "h": 544,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 515,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1311188597526077441,
+            "in_reply_to_status_id_str": "1311188597526077441",
+            "in_reply_to_user_id": 1020486492928454656,
+            "in_reply_to_user_id_str": "1020486492928454656",
+            "in_reply_to_screen_name": "incarnatiooon",
+            "user": {
+                "id": 1020486492928454656,
+                "id_str": "1020486492928454656",
+                "name": "andeyb",
+                "screen_name": "incarnatiooon",
+                "location": "",
+                "description": "although i can't recall your face, i still got love for you",
+                "url": "https://t.co/71xoWAdOOM",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/71xoWAdOOM",
+                                "expanded_url": "https://curiouscat.me/incarnatiooon",
+                                "display_url": "curiouscat.me/incarnatiooon",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 211,
+                "friends_count": 402,
+                "listed_count": 1,
+                "created_at": "Sat Jul 21 01:51:54 +0000 2018",
+                "favourites_count": 11373,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3098,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1310238318727028736/blift0L6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310238318727028736/blift0L6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1020486492928454656/1601220133",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Tue Sep 29 12:25:40 +0000 2020",
+            "id": 1310918664812744704,
+            "id_str": "1310918664812744704",
+            "text": "Biden:\nhttps://t.co/bMgQx0zi1m",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/bMgQx0zi1m",
+                        "expanded_url": "https://dailycaring.com/3-stages-of-dementia-what-to-expect/",
+                        "display_url": "dailycaring.com/3-stages-of-de…",
+                        "indices": [
+                            7,
+                            30
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 87545449,
+                "id_str": "87545449",
+                "name": "Searcher of Dark Truth",
+                "screen_name": "FFDP1974",
+                "location": "",
+                "description": "#HoaxPledge 'Hoax of Black Victimization'\n🇺🇸 #LiberalismIsAMentalDisorder \n#MAGA #TRUMP2020 #2nd Amendment 🇺🇸",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 315,
+                "friends_count": 669,
+                "listed_count": 2,
+                "created_at": "Wed Nov 04 22:03:46 +0000 2009",
+                "favourites_count": 3986,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2670,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1114213612128747520/W3ZcOkTf_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114213612128747520/W3ZcOkTf_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/87545449/1554484270",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "eu"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.07,
+        "max_id": 1312406409531715590,
+        "max_id_str": "1312406409531715590",
+        "next_results": "?max_id=1310918664812744703&q=expect&lang=eu&include_entities=1&result_type=mixed",
+        "query": "expect",
+        "refresh_url": "?since_id=1312406409531715590&q=expect&lang=eu&result_type=mixed&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
