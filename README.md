@@ -16,6 +16,7 @@
 -------------------------------------------------------------------------------------
 #Description:
 Demo Video: https://youtu.be/772L6VQiCBQ
+
 Slides: https://docs.google.com/presentation/d/1rTvKWK-jaWbaJFMqfxpmxVO-QOqjVv74Wanipy7Ag6Y/edit?usp=sharing
 
 We developed a web application which acts a portal for communication and education and connects people all over the world where it addresses various humanitarian issues occurring everyday. 
