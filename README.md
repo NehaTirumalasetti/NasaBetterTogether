@@ -1,8 +1,8 @@
-## Nasa Space Apps Challenge 2020 - Better Together
+# Nasa Space Apps Challenge 2020 - Better Together
 
 *You can find more details about the problem statement [here](https://2020.spaceappschallenge.org/challenges/confront/better-together/details).*
 
-# Please install the dependencies using pip in order to run the project:
+## Please install the dependencies using pip in order to run the project:
 1. geopy
 2. nltk
 3. tweet-preprocessor
@@ -16,7 +16,7 @@
 4. To run the server: python manage.py runserver. Server runs on port 8000
 
 -------------------------------------------------------------------------------------
-# Description of our solution Ummeed
+## Description of our solution Ummeed
 
 * [Demo Video](https://youtu.be/772L6VQiCBQ)  
 * [Slides](https://docs.google.com/presentation/d/1rTvKWK-jaWbaJFMqfxpmxVO-QOqjVv74Wanipy7Ag6Y/edit?usp=sharing)
@@ -26,7 +26,7 @@ We developed a web application which acts a portal for communication and educati
 This was our motivation to approach this problem statement. Our solution helps bridge the gap that causes people to experience inequality and help address these issues. It will also help educate the users and get issues more outreach.
 
 --------------------------------------------------------------------------------------
-# Data and Resources:
+## Data and Resources:
 
 NASA WorldWind SDK: Dependent on NASA and USGS satellite imagery, aerial photography, topographic maps, Keyhole Markup Language (KML) and Collada files.
 
