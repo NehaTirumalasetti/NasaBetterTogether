@@ -1,6 +1,6 @@
 ## Nasa Space Apps Challenge 2020 - Better Together
 
-*You can find more details about the problem statement [here](https://2020.spaceappschallenge.org/challenges/confront/better-together/details).
+*You can find more details about the problem statement [here](https://2020.spaceappschallenge.org/challenges/confront/better-together/details).*
 
 # Please install the dependencies using pip in order to run the project:
 1. geopy
