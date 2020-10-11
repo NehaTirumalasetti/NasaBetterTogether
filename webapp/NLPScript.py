@@ -275,8 +275,8 @@ def script(text):
 
     from nltk.corpus import stopwords 
     #twitter credentials
-    consumer_key = 'H9y4X6T2VD9X1yYC57JGuPDGF'
-    consumer_secret_key = '2MH4iJ8bQ7awBUrtWbg8EF6fvmrMHrmTVYESME8zp3wl2vtyHb'
+    consumer_key = 'XXXXXXXXXXXXXXXXXXXXXX'
+    consumer_secret_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
     #Reformat the keys and encode them
     key_secret = '{}:{}'.format(consumer_key, consumer_secret_key).encode('ascii')
     #Transform from bytes to bytes that can be printed
